@@ -12,7 +12,7 @@ This project explores the design, implementation, and optimization of **ETL (Ext
 
 - Python (e.g., pandas, Airflow)
 - SQL / PostgreSQL
-- Apache Airflow / Luigi / dbt (tool to be selected)
+- Apache Airflow 
 - Cloud storage or databases - AWS S3
 
 ## Repository Structure
